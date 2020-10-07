@@ -1,0 +1,3 @@
+const ceaser = () => 'Hello';
+
+ceaser();

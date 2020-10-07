@@ -5,6 +5,4 @@ function Calculator(a, b) {
   this.divide = () => a / b;
 }
 
-const calc = new Calculator(4, 8);
-
-calc.add();
+module.exports = Calculator;
