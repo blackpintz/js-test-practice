@@ -1,3 +1,0 @@
-const ceaser = () => 'Hello';
-
-ceaser();
