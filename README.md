@@ -47,7 +47,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - [Microverse](https://www.microverse.org/)
-
+- [Jest](https://jestjs.io/docs/en/getting-started)
 
 
 
