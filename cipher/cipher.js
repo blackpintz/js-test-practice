@@ -21,5 +21,4 @@ const ceaserCipher = (str, shift) => {
   return output;
 };
 
-
 module.exports = ceaserCipher;

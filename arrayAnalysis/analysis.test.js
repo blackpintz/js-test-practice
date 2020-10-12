@@ -1,4 +1,4 @@
-const analyseFunc = require('./analysis');
+import analyseFunc from './analysis';
 
 it('check connection', () => {
   expect(analyseFunc([1, 2, 3, 4])).toEqual({

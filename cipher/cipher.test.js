@@ -1,4 +1,4 @@
-const cipherFunc = require('./cipher');
+import cipherFunc from './cipher';
 
 it('checks wrapping from z to a', () => {
   expect(cipherFunc('zoo', 1)).toBe('app');
